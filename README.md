@@ -17,7 +17,7 @@
   |entry-image|엔트리이야기 이미지 넣는 프로그램||2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |entry-uploader|엔트리이야기 파일 넣는 프로그램||0.1.2|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
 
-  # 개발중
+  ## 개발중
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Diasy||||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
