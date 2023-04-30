@@ -8,4 +8,4 @@ pyer|작품 만들기 테마 바꿀 수 있게하는 프로그램|[크롬 웹스
 waffle|엔이 사진 넣는 프로그램|[깃허브](https://github.com/ddtt786/waffle/releases/tag/0.4.3)|
 Dirter|검열 우회 프로그램|[깃허브](https://github.com/Im-JaMezz/Dirter)|
 Baker|엔트리이야기 줄바꿈 프로그램|[깃허브](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|
-엔람|엔트리이야이기 알림 미리보는 프로그램|(곧 적을 예정)|
+엔람|엔트리이야이기 알림 미리보는 프로그램|[깃허브](./12345.zip)|
