@@ -1,7 +1,7 @@
 # entryExtensionList
 엔트리 확장프로그램을 정리한 문서입니다, 기준일 : __2023년 4월 30일 오후 5시 30분__
 
-|이름|사용 용도|다운로드 링크|개발자|버전
+|이름|사용 용도|다운로드 링크|버전|개발자
 |-|-|-|-|-|
 dutmoticon|다양한 이모티콘 사용해주게 만드는 프로그램|[깃허브](https://github.com/EntryHack/dutmoticon/releases/tag/3.1.1)|3.1.1|[띠까](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)
 pyer|작품 만들기 테마 바꿀 수 있게하는 프로그램|[크롬 웹스토어](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
