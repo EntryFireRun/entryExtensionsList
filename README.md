@@ -14,9 +14,9 @@
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램||3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
-  |entry-image|엔트리이야기 이미지 넣는 프로그램||2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
-  |entry-uploader|엔트리이야기 파일 넣는 프로그램||0.1.2|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
-  |엔람|엔트리이야이기 알림 미리보는 프로그램||2.0.0|devvy|
+  |entry-image|엔트리이야기 이미지 넣는 프로그램|[github(source)](https://github.com/thoratica/entry-uploader)|2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |entry-uploader|엔트리이야기 파일 넣는 프로그램|[github(source)]()|0.1.2|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |엔람|엔트리이야이기 알림 미리보는 프로그램|[github](./files/엔람.zip)|2.0.0|devvy|
 
   ## 개발중
   |이름|사용 용도|다운로드 링크|버전|개발자|
