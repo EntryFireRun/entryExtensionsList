@@ -13,24 +13,25 @@
   ## 사용 불가
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
-  |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램||3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
-  |entry-image|엔트리이야기 이미지 넣는 프로그램||2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
+  |entry-image|엔트리이야기 이미지 넣는 프로그램|[github(Releases)](https://github.com/EntryHack/entry-image/releases/tag/2.0.0)|2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |entry-uploader|엔트리이야기 파일 넣는 프로그램|[github(source)](https://github.com/thoratica/entry-uploader)|0.1.2|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |엔람|엔트리이야이기 알림 미리보는 프로그램|[github](./files/엔람.zip)|2.0.0|devvy|
 
   ## 개발중
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
-  ||유저찾기등등 다양한 기능의 프로그램|||[Lemon](https://playentry.org/profile/615d31d849e1950333001a9f/project?sort=created&term=all)|
-  |Diasy|엔트리이야기 이미지 넣기, 작품만들기 오브젝트에서 GIF추가<br>등등 다양한 기능의 프로그램|||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
-  ||엔트리이야기 사진 넣는 프로그램|||[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
+  |?|유저찾기등등 다양한 기능의 프로그램|?|0|[Lemon](https://playentry.org/profile/615d31d849e1950333001a9f/project?sort=created&term=all)|
+  |Daisy|엔트리이야기 이미지 넣기, 작품만들기 오브젝트에서 GIF추가<br>등등 다양한 기능의 프로그램|[github(source)](https://github.com/EntryHack/daisy)|0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |?|엔트리이야기 사진 넣는 프로그램|?|0|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
 
 ---
 
-# 경고
+# 주의
 주의 : 모든 확장프로그램을 신뢰하지 마세요, 악성코드가 들어있을 수도 있습니다  
 이슈를 통해 추가/제거/수정/아이디어등을 건의해주세요!  
 기준일 : __`2023`년 `05`월 `01`일 오전 `07`시 `00`분__
 
 ## 찾습니다
-글정방지 확장프로그램을 제작한 분을 찾고 있습니다, 아시는분은 이슈로 
+찾습니다, 글정방지 확장프로그램을 제작한 분을 찾고 있습니다, 아시는분은 이슈로 알려주세요  
+찾습니다, devvy님의 엔트리 마이페이지 주소를 찾고 있습니다, 아시는분은 이슈로 알려주세요
