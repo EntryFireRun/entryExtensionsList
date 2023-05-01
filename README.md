@@ -8,22 +8,22 @@
   |글정방지|[사용하시기전 하단 주의 ]<br>엔트리이야기  남은시간 알려주는 프로그램|[GoogleDrive](https://drive.google.com/file/d/1km3cE54-I-9y38XRfZb2fEoz3AyQo9x7/view)|1.0.0|?|
   |Baker|엔트리이야기 줄바꿈 프로그램|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Dirter|검열 우회 프로그램|[github(Source)](https://github.com/Im-JaMezz/Dirter)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)([+deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all))|
-  |waffle|엔트리이야기 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.5.1)|0.5.1|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
+  |waffle|엔트리이야기 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.5)|0.6.5|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
 
   ## 사용 불가
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
   |entry-image|엔트리이야기 이미지 넣는 프로그램|[github(Releases)](https://github.com/EntryHack/entry-image/releases/tag/2.0.0)|2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
-  |entry-uploader|엔트리이야기 파일 넣는 프로그램|[github(source)](https://github.com/thoratica/entry-uploader)|0.1.2|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |entry-uploader|엔트리이야기 파일 넣는 프로그램|[github(source)](https://github.com/thoratica/entry-uploader)||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |엔람|엔트리이야이기 알림 미리보는 프로그램|[github](./files/엔람.zip)|2.0.0|devvy|
 
   ## 개발중
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
-  |?|유저찾기등등 다양한 기능의 프로그램|?|0|[Lemon](https://playentry.org/profile/615d31d849e1950333001a9f/project?sort=created&term=all)|
-  |Daisy|엔트리이야기 이미지 넣기, 작품만들기 오브젝트에서 GIF추가<br>등등 다양한 기능의 프로그램|[github(source)](https://github.com/EntryHack/daisy)|0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
-  |?|엔트리이야기 사진 넣는 프로그램|?|0|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
+  ||유저찾기등등 다양한 기능의 프로그램|||[Lemon](https://playentry.org/profile/615d31d849e1950333001a9f/project?sort=created&term=all)|
+  |Daisy|엔트리이야기 이미지 넣기, 작품만들기 오브젝트에서 GIF추가<br>등등 다양한 기능의 프로그램|[github(source)](https://github.com/EntryHack/daisy)||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  ||엔트리이야기 사진 넣는 프로그램|||[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
 
 ---
 
