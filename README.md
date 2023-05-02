@@ -10,6 +10,7 @@
   |pyer|작품 만들기 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
   |waffle|엔트리이야기 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.6)|0.6.6|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
   |글정방지|[글정방지의 경우 다른 확장프로그램과 충돌이 일어날 수 있습니다]<br>엔트리이야기 글정 남은시간 알려주는 프로그램|[GoogleDrive](https://drive.google.com/file/d/1km3cE54-I-9y38XRfZb2fEoz3AyQo9x7/view)|1.0.0||
+  |둣|사이드바에 엔트리 보기 넣는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/neoholdepbbcakiikghkfjibehhebdhe)|1.2.1|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
 
   ## 사용 불가
   |이름|사용 용도|다운로드 링크|버전|개발자|
@@ -20,11 +21,14 @@
   |Jevi-Injector|엔트리 작품 공유리스트를 업그레이드 해준 프로그램|[github(Source)](https://github.com/gnlow/Jevi-Injector)|1.0|gnlow|
   |엔람|엔트리이야이기 알림 미리보는 프로그램|[github](./files/엔람.zip)|2.0.0|devvy|
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
+  |Entry community popup|엔트리이야이기 팝업으로 수시로 볼 수 있는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/odncahmeekfglbcogohpmkdfbmhcdiha)|1.0|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
 
-  ## 개발중/계획
+  ## 개발중/계획/개발취소
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Daisy|엔트리이야기 이미지 넣기, 작품만들기 오브젝트에서 GIF추가 등등<br>다양한 기능의 프로그램|[github(Source)](https://github.com/EntryHack/daisy)||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |e-text|엔트리에서 줄바꿈 프로그램|||[스탁](https://playentry.org/profile/6110b1d22c395018feced598?sort=created&term=all)|
+  ||엔트리이야기 사진 넣는 프로그램|||[김잔상](https://playentry.org/profile/62e0f3af3d80d5006290ab89/project?sort=created&term=all)
   ||유저찾기등등 다양한 기능의 프로그램|||[Lemon](https://playentry.org/profile/615d31d849e1950333001a9f/project?sort=created&term=all)|
   ||엔트리이야기 사진 넣는 프로그램|||[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
   ||노팁 북하크하는 프로그램|||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
@@ -39,8 +43,7 @@
 이슈를 통해 추가/제거/수정/아이디어등을 건의해주세요!  
 기준일 : `2023`년 `05`월 `02`일 오후 `2`시 `30`분  
 항상 최신버전의 링크를 걸어두지 않습니다, 기준일을 참고해주세요  
-
-모든 확장프로그램이 있는건 아닙니다, 참고해주세요
+모든 확장프로그램이 있는건 아닙니다  
 
 # 찾습니다
 찾습니다, 글정방지 확장프로그램을 제작한 분을 찾고 있습니다, 아시는분은 이슈로 알려주세요  
