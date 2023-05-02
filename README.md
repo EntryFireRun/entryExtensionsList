@@ -19,7 +19,7 @@
   |EntPlus|팔로우, 순위확인등등 다양한 기능의 프로그램|[github(Sourcre)](https://github.com/chamwhy-farm/EntPlus_tab/tree/master)|1.0|[차뫼](https://playentry.org/profile/5dcfeb3a84410200192ab297?sort=created&term=all)|
   |entry-uploader|엔트리이야기 파일 넣는 프로그램|[github(Source)](https://github.com/thoratica/entry-uploader)|0.1.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |Jevi-Injector|엔트리 작품 공유리스트를 업그레이드 해준 프로그램|[github(Source)](https://github.com/gnlow/Jevi-Injector)|1.0|gnlow|
-  |엔람|엔트리이야이기 알림 미리보는 프로그램|[github](./files/엔람.zip)|2.0.0|devvy|
+  |엔람|엔트리이야이기 알림 미리보는 프로그램|[github(zipFile)](./files/엔람.zip)|2.0.0|devvy|
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
   |Entry community popup|엔트리이야이기 팝업으로 수시로 볼 수 있는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/odncahmeekfglbcogohpmkdfbmhcdiha)|1.0|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
 
