@@ -36,6 +36,7 @@
   ||유저차단, 키워드차단하는 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all), [JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)|
   ||엔이 접속 차단 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   ||작품 화질 올리는 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  ||다른사람 비공개작품,엔이,노팁,묻답 개수 확인과 대부분의 유저아이디 보는 기능 등등<br>다양한 기능의 확장프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
 
 ---
 
