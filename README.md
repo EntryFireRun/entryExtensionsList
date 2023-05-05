@@ -28,12 +28,13 @@
   ## 개발중/계획/개발취소
   |이름|사용 용도|다운로드 링크|개발자|
   |-|-|-|-|
+  |Cheese|작품 화질 개선 프로그램|[github(Source)](https://github.com/deliciouswaffle/Cheese)|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Daisy|엔트리이야기 이미지 넣기, 작품만들기 오브젝트에서 GIF추가 등등<br>다양한 기능의 프로그램|[github(Source)](https://github.com/EntryHack/daisy)|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |e-text|엔트리에서 줄바꿈 프로그램||[스탁](https://playentry.org/profile/6110b1d22c395018feced598?sort=created&term=all)|
   ||엔트리이야기 사진 넣는 프로그램||[김잔상](https://playentry.org/profile/62e0f3af3d80d5006290ab89/project?sort=created&term=all)
   ||유저찾기등등 다양한 기능의 프로그램||[Lemon](https://playentry.org/profile/615d31d849e1950333001a9f/project?sort=created&term=all)|
   ||엔트리이야기 사진 넣는 프로그램||[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
-  |Cheese|엔트리이야기 마크다운 읽는 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  ||엔트리이야기 마크다운 읽는 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   ||노팁 북하크하는 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   ||유저차단, 키워드차단하는 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all), [JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)|
   ||엔이 접속 차단 프로그램||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
