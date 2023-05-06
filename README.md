@@ -16,7 +16,7 @@
   ## 사용 불가
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
-  |Cheese|작품 화질 개선 프로그램|[github(File)](./files/Cheese-main.zip)|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  |Cheese|작품 화질 개선 프로그램|[github(zipFile)](./files/Cheese-main.zip)|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |entry-image|엔트리이야기 이미지 넣는 프로그램|[github(Releases)](https://github.com/EntryHack/entry-image/releases/tag/2.0.0)|2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |EntPlus|팔로우, 순위확인등등 다양한 기능의 프로그램|[github(Sourcre)](https://github.com/chamwhy-farm/EntPlus_tab/tree/master)|1.0|[차뫼](https://playentry.org/profile/5dcfeb3a84410200192ab297?sort=created&term=all)|
   |entry-uploader|엔트리이야기 파일 넣는 프로그램|[github(Source)](https://github.com/thoratica/entry-uploader)|0.1.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
