@@ -22,7 +22,6 @@
   |EntPlus|팔로우, 순위확인등등 다양한 기능의 프로그램|[github(Sourcre)](https://github.com/chamwhy-farm/EntPlus_tab/tree/master)|1.0|[차뫼](https://playentry.org/profile/5dcfeb3a84410200192ab297?sort=created&term=all)|
   |entry-uploader|엔트리이야기에서 파일 넣는 프로그램|[github(Source)](https://github.com/thoratica/entry-uploader)|0.1.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |Jevi-Injector|엔트리 작품 공유리스트를 업그레이드 해준 프로그램|[github(Source)](https://github.com/gnlow/Jevi-Injector)|1.0|[gnlow](https://github.com/gnlow)|
-  
   |엔람|엔트리이야이기에서 온 알림 미리보는 프로그램|[github(zipFile)](./files/엔람.zip)|2.0.0|[devvy](https://playentry.org/profile/6409fa48ad121100797a48ed?sort=created&term=all)|
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
   |Entry community popup|엔트리이야이기에서 팝업으로 수시로 볼 수 있는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/odncahmeekfglbcogohpmkdfbmhcdiha)|1.0|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
@@ -32,6 +31,7 @@
   |-|-|-|
   |Daisy|엔트리이야기에서 이미지 넣기, 작품만들기 오브젝트에서 GIF추가 등등<br>다양한 기능의 프로그램|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |e-text|엔트리에서 줄바꿈 프로그램|[스탁](https://playentry.org/profile/6110b1d22c395018feced598?sort=created&term=all)|
+  |글정방지2|[이 확장프로그램은 전체공개 계획이 없습니다]<br>엔트리이야기 글정 남은시간 알려주는 프로그램|[부스터](https://playentry.org/profile/6409fa48ad121100797a48ed?sort=created&term=all)
   |무플방지|엔트리이야기에서 무플 방지하는 프로그램|[EHackC](https://playentry.org/profile/60f0fae88c6c1e2feab573d5?sort=created&term=all)
   ||엔트리이야기 사진 넣는 프로그램|[김잔상](https://playentry.org/profile/62e0f3af3d80d5006290ab89/project?sort=created&term=all)
   ||유저찾기등등 다양한 기능의 프로그램|[Lemon](https://playentry.org/profile/615d31d849e1950333001a9f/project?sort=created&term=all)|
@@ -40,13 +40,12 @@
   ||유저차단, 키워드차단하는 프로그램|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all), [JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)|
   ||엔이 접속 차단 프로그램|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   ||[이 확장프로그램은 전체공개 계획이 없습니다]<br>다른사람 비공개작품,엔이,노팁,묻답 개수 확인과 유저찾기, 대부분의 유저아이디 보는 기능 등등<br>다양한 기능의 확장프로그램|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
-
 ---
 
 # 정보
 *주의 : 모든 확장프로그램을 신뢰하지 마세요, 악성코드가 들어있을 수도 있습니다*  
 이슈를 통해 추가/제거/수정/아이디어등을 건의해주세요!  
-기준일 : `2023`년 `05`월 `17`일 오후 `09`시 `00`분  
+기준일 : `2023`년 `05`월 `17`일 오후 `09`시 `30`분  
 항상 최신버전의 링크를 걸어두지 않습니다, 기준일을 참고해주세요  
 모든 확장프로그램이 있는건 아닙니다  
 모든 정보가 정확하지는 않습니다
