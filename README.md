@@ -3,7 +3,7 @@
   ## 사용 가능
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
-  |Baker|엔트리이야기에서 줄바꿈 프로그램|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Cheese|마크다운 읽는 프로그램|[github(Releases)](https://github.com/deliciouswaffle/Cheese/releases/tag/2.1)|2.1|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Dirter|검열 우회 프로그램|[github(Source)](https://github.com/Im-JaMezz/Dirter)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)([+deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all))|
   |DL Entry+|엔트리이야기에서 작품 미리보는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/clomedjbkfiamlkclldedlojhoalkifo)|0.5|[디엘](https://playentry.org/profile/5bb5fae2d856ffb51993a39c?sort=created&term=all)
@@ -22,6 +22,7 @@
   |EntPlus|팔로우, 순위확인등등 다양한 기능의 프로그램|[github(Sourcre)](https://github.com/chamwhy-farm/EntPlus_tab/tree/master)|1.0|[차뫼](https://playentry.org/profile/5dcfeb3a84410200192ab297?sort=created&term=all)|
   |entry-uploader|엔트리이야기에서 파일 넣는 프로그램|[github(Source)](https://github.com/thoratica/entry-uploader)|0.1.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |Jevi-Injector|엔트리 작품 공유리스트를 업그레이드 해준 프로그램|[github(Source)](https://github.com/gnlow/Jevi-Injector)|1.0|[gnlow](https://github.com/gnlow)|
+  
   |엔람|엔트리이야이기에서 온 알림 미리보는 프로그램|[github(zipFile)](./files/엔람.zip)|2.0.0|[devvy](https://playentry.org/profile/6409fa48ad121100797a48ed?sort=created&term=all)|
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
   |Entry community popup|엔트리이야이기에서 팝업으로 수시로 볼 수 있는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/odncahmeekfglbcogohpmkdfbmhcdiha)|1.0|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
