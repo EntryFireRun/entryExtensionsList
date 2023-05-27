@@ -8,6 +8,7 @@
   |Dirter|검열 우회 프로그램|[github(Source)](https://github.com/Im-JaMezz/Dirter)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)([+deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all))|
   |DL Entry+|엔트리이야기에서 작품 미리보는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/clomedjbkfiamlkclldedlojhoalkifo)|0.5|[디엘](https://playentry.org/profile/5bb5fae2d856ffb51993a39c?sort=created&term=all)|
   |dutmoticon|다양한 이모티콘 사용해주게 만드는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/dutmoticon/mjlbcokobnkhkgmoofapljhfgcbbchmo?hl=ko)|3.1.1|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |EntryPlus|[약간의 오류가 있습니다] 엔트리이야기에서 사진 업로드 도와주는 프로그램|[github(Sourcre)](https://github.com/6c65657977/EntryPlus)|1.0|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
   |entrystorypluse|엔트리이야기에서 유튜브, 작품, 이미지 링크 미리보기와<br>"들어가기"로 바꾸는 프로그램|[github(Source)](https://github.com/triangle231/entrystorypluse)|1|[Triangle](https://playentry.org/profile/5fd0367528bac102f9a73345?sort=created&term=all) + [ChatGPT](https://chat.openai.com/)|
   |Hey|[취약점이 있는 확장프로그램입니다]<br>유튜브 링크 미리보는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Hey)|0.2|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |pyer|작품 만들기에서 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
@@ -20,7 +21,6 @@
   |-|-|-|-|-|
   |Cheese|작품 화질 개선 프로그램|[github(zipFile)](./files/Cheese-main.zip)|1.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |EntPlus|팔로우, 순위확인등등<br>다양한 기능의 프로그램|[github(Sourcre)](https://github.com/chamwhy-farm/EntPlus_tab/tree/master)|1.0|[차뫼](https://playentry.org/profile/5dcfeb3a84410200192ab297?sort=created&term=all)|
-  |EntryPlus|엔트리이야기에서 사진 업로드 도와주는 프로그램|[github(Sourcre)](https://github.com/6c65657977/EntryPlus)|1.0|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
   |entry-image|엔트리이야기에서 이미지 넣는 프로그램|[github(Releases)](https://github.com/EntryHack/entry-image/releases/tag/2.0.0)|2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |entry-uploader|엔트리이야기에서 파일 넣는 프로그램|[github(Source)](https://github.com/thoratica/entry-uploader)|0.1.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |Jevi-Injector|엔트리 작품 공유리스트를 업그레이드 해준 프로그램|[github(Source)](https://github.com/gnlow/Jevi-Injector)|1.0|[gnlow](https://github.com/gnlow)|
