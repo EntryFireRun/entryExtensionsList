@@ -19,8 +19,9 @@
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Cheese|작품 화질 개선 프로그램|[github(zipFile)](./files/Cheese-main.zip)|1.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
-  |entry-image|엔트리이야기에서 이미지 넣는 프로그램|[github(Releases)](https://github.com/EntryHack/entry-image/releases/tag/2.0.0)|2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |EntPlus|팔로우, 순위확인등등<br>다양한 기능의 프로그램|[github(Sourcre)](https://github.com/chamwhy-farm/EntPlus_tab/tree/master)|1.0|[차뫼](https://playentry.org/profile/5dcfeb3a84410200192ab297?sort=created&term=all)|
+  |EntryPlus|엔트리이야기에서 사진 업로드 도와주는 프로그램|[github(Sourcre)](https://github.com/6c65657977/EntryPlus)|1.0|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
+  |entry-image|엔트리이야기에서 이미지 넣는 프로그램|[github(Releases)](https://github.com/EntryHack/entry-image/releases/tag/2.0.0)|2.0.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |entry-uploader|엔트리이야기에서 파일 넣는 프로그램|[github(Source)](https://github.com/thoratica/entry-uploader)|0.1.0|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |Jevi-Injector|엔트리 작품 공유리스트를 업그레이드 해준 프로그램|[github(Source)](https://github.com/gnlow/Jevi-Injector)|1.0|[gnlow](https://github.com/gnlow)|
   |엔람|엔트리이야이기에서 온 알림 미리보는 프로그램|[github(zipFile)](./files/엔람.zip)|2.0.0|[devvy](https://playentry.org/profile/6409fa48ad121100797a48ed?sort=created&term=all)|
