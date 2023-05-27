@@ -1,6 +1,7 @@
 # 엔트리 확장프로그램 목록
-
+---  
   ## 사용 가능
+  ### 크롬 전용, 타브라우저 겸용
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
@@ -14,7 +15,17 @@
   |pyer|작품 만들기에서 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
   |waffle|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.7)|0.6.7|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
   |글정방지|[글정방지의 경우 다른 확장프로그램과 충돌이 일어날 수 있습니다]<br>엔트리이야기 글정 남은시간 알려주는 프로그램|[GoogleDrive](https://drive.google.com/file/d/1km3cE54-I-9y38XRfZb2fEoz3AyQo9x7/view)|1.0.0|[데비](https://playentry.org/profile/6334149fd2499800db03a4e7?sort=created&term=all)|
-  |둣|사이드바에 엔트리 보기 넣는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/neoholdepbbcakiikghkfjibehhebdhe)|1.2.1|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
+  |둣|사이드바에 엔트리 보기 넣는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/neoholdepbbcakiikghkfjibehhebdhe)|1.2.1|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|  
+
+  ### 파이어폭스 전용
+  |이름|사용 용도|다운로드 링크|버전|개발자|
+  |-|-|-|-|-|
+  |knight|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/knight/releases/tag/0.1.1)|0.1.1|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
+<br>
+
+---
+
+<br>
 
   ## 사용 불가
   |이름|사용 용도|다운로드 링크|버전|개발자|
@@ -28,6 +39,11 @@
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
   |Entry community popup|엔트리이야이기에서 팝업으로 수시로 볼 수 있는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/odncahmeekfglbcogohpmkdfbmhcdiha)|1.0|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
   ||게시판 이동 요청 버튼 누르면 특정 댓글을 달게 하는 프로그램|||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+<br>
+
+---
+
+<br>
 
   ## 개발중/계획/개발취소
   |이름|사용 용도|개발자|
