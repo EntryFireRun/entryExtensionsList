@@ -26,7 +26,7 @@
   |엔람|엔트리이야이기에서 온 알림 미리보는 프로그램|[github(zipFile)](./files/엔람.zip)|2.0.0|[devvy](https://playentry.org/profile/6409fa48ad121100797a48ed?sort=created&term=all)|
   |엔트리매크로|공유하기에서 내 작품이 위에 나오게하는 프로그램|[Chrome WebStore](https://chrome.google.com/webstore/detail/엔트리매크로/ppohgfpoodnckkkmiecloifljfkbbmlf?hl=ko)|3.205|[205](https://playentry.org/profile/56136825dadc91e1235b460d?sort=created&term=all)|
   |Entry community popup|엔트리이야이기에서 팝업으로 수시로 볼 수 있는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/odncahmeekfglbcogohpmkdfbmhcdiha)|1.0|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
-  ||게시판 이동 요청 버튼 누르면 특정 댓글을 달게 하는 프로그램||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  ||게시판 이동 요청 버튼 누르면 특정 댓글을 달게 하는 프로그램|||[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
 
   ## 개발중/계획/개발취소
   |이름|사용 용도|개발자|
