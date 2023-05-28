@@ -1,7 +1,7 @@
 # 엔트리 확장프로그램 목록
 ---  
   ## 사용 가능
-  ### 크로미움 전용, 파이어폭스 겸용
+  ### 크로미움 기반 전용, 파이어폭스 겸용
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
