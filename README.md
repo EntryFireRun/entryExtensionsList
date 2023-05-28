@@ -1,14 +1,14 @@
 # 엔트리 확장프로그램 목록
 ---  
   ## 사용 가능
-  ### 크롬 전용, 타브라우저 __겸용__
+  ### 크로미움 전용, 파이어폭스 겸용
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Cheese|마크다운 읽는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Cheese)|2.2|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Dirter|검열 우회 프로그램|[github(Source)](https://github.com/Im-JaMezz/Dirter)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)([+deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all))|
   |DL Entry+|엔트리이야기에서 작품 미리보는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/clomedjbkfiamlkclldedlojhoalkifo)|0.5|[디엘](https://playentry.org/profile/5bb5fae2d856ffb51993a39c?sort=created&term=all)|
-  |dutmoticon|다양한 이모티콘 사용해주게 만드는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/dutmoticon/mjlbcokobnkhkgmoofapljhfgcbbchmo?hl=ko)|3.1.1|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
+  |![](https://img.shields.io/badge/-Firefox%20호환-%23FF7139?logo=firefoxbrowser&logoColor=white) dutmoticon|다양한 이모티콘 사용해주게 만드는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/dutmoticon/mjlbcokobnkhkgmoofapljhfgcbbchmo?hl=ko)|3.1.1|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |EntryPlus|[약간의 오류가 있습니다, 왼성버전이 아닌것으로 추정됩니다]<br>비공개작품,엔이,노팁,묻답 개수 확인과 유저찾기, 대부분의 유저아이디 보는 기능 등등<br>다양한 기능의 확장프로그램|[github(Sourcre)](https://github.com/6c65657977/EntryPlus)|1.0|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
   |entrystorypluse|엔트리이야기에서 유튜브, 작품, 이미지 링크 미리보기와<br>"들어가기"로 바꾸는 프로그램|[github(Source)](https://github.com/triangle231/entrystorypluse)|1|[Triangle](https://playentry.org/profile/5fd0367528bac102f9a73345?sort=created&term=all) + [ChatGPT](https://chat.openai.com/)|
   |Hey|유튜브 링크 미리보는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Hey)|0.4|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
@@ -16,12 +16,12 @@
   |waffle|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.7)|0.6.7|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
   |글정방지|[글정방지의 경우 다른 확장프로그램과 충돌이 일어날 수 있습니다]<br>엔트리이야기 글정 남은시간 알려주는 프로그램|[GoogleDrive](https://drive.google.com/file/d/1km3cE54-I-9y38XRfZb2fEoz3AyQo9x7/view)|1.0.0|[데비](https://playentry.org/profile/6334149fd2499800db03a4e7?sort=created&term=all)|
 
-  ### 파이어폭스 __전용__
+  ### 파이어폭스 전용
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |knight|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/knight/releases/tag/0.1.1)|0.1.1|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
 
-### 웨일 __전용__
+### 웨일 전용
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |둣|사이드바에 엔트리 보기 넣는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/neoholdepbbcakiikghkfjibehhebdhe)|1.2.1|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|
