@@ -15,7 +15,6 @@
   |pyer|작품 만들기에서 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
   |waffle|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.7)|0.6.7|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
   |글정방지|[글정방지의 경우 다른 확장프로그램과 충돌이 일어날 수 있습니다]<br>엔트리이야기 글정 남은시간 알려주는 프로그램|[GoogleDrive](https://drive.google.com/file/d/1km3cE54-I-9y38XRfZb2fEoz3AyQo9x7/view)|1.0.0|[데비](https://playentry.org/profile/6334149fd2499800db03a4e7?sort=created&term=all)|
-  |둣|사이드바에 엔트리 보기 넣는 프로그램|[WhaleStore](https://store.whale.naver.com/detail/neoholdepbbcakiikghkfjibehhebdhe)|1.2.1|[진윤](https://playentry.org/profile/5cdd52f331d9da36f8211f4a?sort=created&term=all)|  
 
   ### 파이어폭스 __전용__
   |이름|사용 용도|다운로드 링크|버전|개발자|
