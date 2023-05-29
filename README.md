@@ -11,6 +11,7 @@
   |![](https://img.shields.io/badge/-Firefox%20호환-%23FF7139?logo=firefoxbrowser&logoColor=white) dutmoticon|다양한 이모티콘 사용해주게 만드는 프로그램|[Web](https://dutmoticon.tica.fun/install)|3.1.1|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |EntryPlus|[약간의 오류가 있습니다, 왼성버전이 아닌것으로 추정됩니다]<br>비공개작품,엔이,노팁,묻답 개수 확인과 유저찾기, 대부분의 유저아이디 보는 기능 등등<br>다양한 기능의 확장프로그램|[github(Sourcre)](https://github.com/6c65657977/EntryPlus)|1.0|[6c65657977](https://playentry.org/profile/5a5f38f2cb6f99f6b6347479?sort=created&term=all)|
   |entrystorypluse|엔트리이야기에서 유튜브, 작품, 이미지 링크 미리보기와<br>"들어가기"로 바꾸는 프로그램|[github(Source)](https://github.com/triangle231/entrystorypluse)|1|[Triangle](https://playentry.org/profile/5fd0367528bac102f9a73345?sort=created&term=all) + [ChatGPT](https://chat.openai.com/)|
+  |Go_lani|외부 페이지 경고 없에는 프로그램|[github(Source)](https://github.com/Im-JaMezz/Go-lani)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all) + [deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Hey|유튜브 링크 미리보는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Hey)|0.4|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |pyer|작품 만들기에서 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
   |waffle|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.7)|0.6.7|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
@@ -65,7 +66,7 @@
 # 정보
 *주의 : 모든 확장프로그램을 신뢰하지 마세요, 악성코드가 들어있을 수도 있습니다*  
 이슈를 통해 추가/제거/수정/아이디어등을 건의해주세요!  
-기준일 : `2023`년 `05`월 `27`일 오후 `10`시 `00`분  
+기준일 : `2023`년 `05`월 `29`일 오후 `03`시 `00`분  
 항상 최신버전의 링크를 걸어두지 않습니다, 기준일을 참고해주세요  
 모든 확장프로그램이 있는건 아닙니다  
 모든 정보가 정확하지는 않습니다
