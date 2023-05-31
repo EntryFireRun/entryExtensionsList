@@ -20,7 +20,7 @@
   ### 파이어폭스 전용
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
-  |knight|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/knight/releases/tag/0.1.1)|0.1.1|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
+  |knight|엔트리이야기에서 사진 넣는 프로그램|[Firefox addons](https://addons.mozilla.org/ko/firefox/addon/entryknight/)|0.1.1|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
 
 ### 웨일 전용
   |이름|사용 용도|다운로드 링크|버전|개발자|
