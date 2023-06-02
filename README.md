@@ -54,6 +54,7 @@
   |-|-|-|
   |Daisy|엔트리이야기에서 이미지 넣기, 작품만들기 오브젝트에서 GIF추가 등등<br>다양한 기능의 프로그램|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |e-text|엔트리에서 줄바꿈 프로그램|[스탁](https://playentry.org/profile/6110b1d22c395018feced598?sort=created&term=all)|
+  |Finder||[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |글정방지2|[이 확장프로그램은 전체공개 계획이 없습니다]<br>엔트리이야기 글정 남은시간 알려주는 프로그램|[데비](https://playentry.org/profile/6334149fd2499800db03a4e7?sort=created&term=all)|
   |무플방지|엔트리이야기에서 무플 방지하는 프로그램|[EHackC](https://playentry.org/profile/60f0fae88c6c1e2feab573d5?sort=created&term=all)|
   ||엔트리이야기 사진 넣는 프로그램|[김잔상](https://playentry.org/profile/62e0f3af3d80d5006290ab89/project?sort=created&term=all)|
