@@ -14,7 +14,7 @@
   |Go-lani|외부 페이지 경고 없에는 프로그램|[github(Source)](https://github.com/Im-JaMezz/Go-lani)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all) + [deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Hey|유튜브 링크 미리보는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Hey)|0.4|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |pyer|작품 만들기에서 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
-  |UglyFrog|유저의 마이페이지 미리보는 프로그램|[github(Releases)](https://github.com/deliciouswaffle//releases/tag/0.2)|0.4|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  |UglyFrog|유저의 마이페이지 미리보는 프로그램|[github(Releases)](https://github.com/deliciouswaffle/UglyFrog/releases/tag/1.2)|1.2|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |waffle|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.7)|0.6.7|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
   |글정방지|[글정방지의 경우 다른 확장프로그램과 충돌이 일어날 수 있습니다]<br>엔트리이야기 글정 남은시간 알려주는 프로그램|[GoogleDrive](https://drive.google.com/file/d/1km3cE54-I-9y38XRfZb2fEoz3AyQo9x7/view)|1.0.0|[데비](https://playentry.org/profile/6334149fd2499800db03a4e7?sort=created&term=all)|
 
@@ -69,7 +69,7 @@
 # 정보
 *주의 : 모든 확장프로그램을 신뢰하지 마세요, 악성코드가 들어있을 수도 있습니다*  
 이슈를 통해 추가/제거/수정/아이디어등을 건의해주세요!  
-기준일 : `2023`년 `06`월 `60`일 오후 `03`시 `00`분  
+기준일 : `2023`년 `06`월 `615`일 오후 `08`시 `30`분  
 항상 최신버전의 링크를 걸어두지 않습니다, 기준일을 참고해주세요  
 모든 확장프로그램이 있는건 아닙니다  
 모든 정보가 정확하지는 않습니다
