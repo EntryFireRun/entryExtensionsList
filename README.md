@@ -13,6 +13,7 @@
   |entrystorypluse|엔트리이야기에서 유튜브, 작품, 이미지 링크 미리보기와<br>"들어가기"로 바꾸는 프로그램|[github(Source)](https://github.com/triangle231/entrystorypluse)|1|[Triangle](https://playentry.org/profile/5fd0367528bac102f9a73345?sort=created&term=all) + [ChatGPT](https://chat.openai.com/)|
   |Go-lani|외부 페이지 경고 없에는 프로그램|[github(Source)](https://github.com/Im-JaMezz/Go-lani)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all) + [deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Hey|유튜브 링크 미리보는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Hey)|0.4|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  |Pie|엔트리 작품 화질 올리는 램|[github(Source)](https://github.com/deliciouswaffle/Pie)|0.1|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |pyer|작품 만들기에서 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
   |UglyFrog|유저의 마이페이지 미리보는 프로그램|[github(Releases)](https://github.com/deliciouswaffle/UglyFrog/releases/tag/1.2)|1.2|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |waffle|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.7)|0.6.7|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
