@@ -4,8 +4,6 @@
   ### 크로미움 기반 전용
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
-  |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
-  |Cheese|마크다운 읽는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Cheese)|2.3|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Dirter|검열 우회 프로그램|[github(Source)](https://github.com/Im-JaMezz/Dirter)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)([+deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all))|
   |DL Entry+|엔트리이야기에서 작품 미리보는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/clomedjbkfiamlkclldedlojhoalkifo)|0.7|[디엘](https://playentry.org/profile/5bb5fae2d856ffb51993a39c?sort=created&term=all)|
   |dutmoticon|다양한 이모티콘 사용해주게 만드는 프로그램|[Web](https://dutmoticon.tica.fun/install)|3.1.1|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
@@ -13,7 +11,7 @@
   |entrystorypluse|엔트리이야기에서 유튜브, 작품, 이미지 링크 미리보기와<br>"들어가기"로 바꾸는 프로그램|[github(Source)](https://github.com/triangle231/entrystorypluse)|1|[Triangle](https://playentry.org/profile/5fd0367528bac102f9a73345?sort=created&term=all) + [ChatGPT](https://chat.openai.com/)|
   |Go-lani|외부 페이지 경고 없에는 프로그램|[github(Source)](https://github.com/Im-JaMezz/Go-lani)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all) + [deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Hey|유튜브 링크 미리보는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Hey)|0.4|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
-  |Pie|엔트리 작품 화질 올리는 램|[github(Source)](https://github.com/deliciouswaffle/Pie)|0.1|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  |Armadillo|엔트리 작품 화질 올리는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Armadillo/)|1.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |pyer|작품 만들기에서 테마 바꿀 수 있게하는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/pyer-엔트리-테마/acakicmakfimdjpiopdgocnkemebjmln)|6.2.0|[냥이](https://playentry.org/profile/54b8879177aebdc00b150b12?sort=created&term=all)|
   |UglyFrog|유저의 마이페이지 미리보고 유저를 찾는 프로그램|[github(Releases)](https://github.com/deliciouswaffle/UglyFrog/releases/tag/1.2)|1.2|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |waffle|엔트리이야기에서 사진 넣는 프로그램|[github(Releases)](https://github.com/ddtt786/waffle/releases/tag/0.6.7)|0.6.7|[ddtt786](https://playentry.org/profile/6267d6308d2fe905d32ab6e0?sort=created&term=all)|
@@ -31,11 +29,14 @@
 
 ---
 
+
 <br>
 
   ## 사용 불가
-  |이름|사용 용도|버전|개발자|
+  |이름|사용 용도|다운로드 링크|개발자|
   |-|-|-|-|
+  |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(Releases)](https://github.com/deliciouswaffle/Baker/releases/tag/crx)|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  |Cheese|마크다운 읽는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Cheese)|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |EntPlus|팔로우, 순위확인등등<br>다양한 기능의 프로그램|[github(Source)](https://github.com/chamwhy-farm/EntPlus_tab/tree/master)|[차뫼](https://playentry.org/profile/5dcfeb3a84410200192ab297?sort=created&term=all)|
   |entry-image|엔트리이야기에서 이미지 넣는 프로그램|[github(Releases)](https://github.com/EntryHack/entry-image/releases/tag/2.0.0)|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
   |entry-uploader|엔트리이야기에서 파일 넣는 프로그램|[github(Source)](https://github.com/thoratica/entry-uploader)|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
@@ -70,7 +71,7 @@
 # 정보
 *주의 : 모든 확장프로그램을 신뢰하지 마세요, 악성코드가 들어있을 수도 있습니다*  
 이슈를 통해 추가/제거/수정/아이디어등을 건의해주세요!  
-기준일 : `2023`년 `06`월 `20`일 오후 `09`시 `00`분  
+기준일 : `2023`년 `06`월 `26`일 오후 `07`시 `10`분  
 항상 최신버전의 링크를 걸어두지 않습니다, 기준일을 참고해주세요  
 모든 확장프로그램이 있는건 아닙니다  
 모든 정보가 정확하지는 않습니다
