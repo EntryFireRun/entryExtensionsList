@@ -1,7 +1,7 @@
 # 엔트리 확장프로그램 목록
 ---  
   ## 사용 가능
-  ### 크로미움 기반 전용
+  ### 크로미움 기반 전용 (크롬, 웨일, 오페라, 브레이브, 엣지등)
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Armadillo|엔트리 작품 화질 올리는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Armadillo/)|1.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
