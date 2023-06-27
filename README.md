@@ -5,7 +5,7 @@
   |이름|사용 용도|다운로드 링크|버전|개발자|
   |-|-|-|-|-|
   |Armadillo|엔트리 작품 화질 올리는 프로그램|[github(Source)](https://github.com/deliciouswaffle/Armadillo/)|1.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
-  |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(zipfile)](./files/Baker-crx.zip)|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
+  |Baker|엔트리이야기에서 줄바꿈 프로그램 (Taker 업그레이드버전)|[github(zipfile)](./files/Baker-crx.zip)|1.0.0|[deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all)|
   |Dirter|검열 우회 프로그램|[github(Source)](https://github.com/Im-JaMezz/Dirter)|0.1|[JaMezz](https://playentry.org/profile/642967259d3c0c00733b01b5?sort=created&term=all)([+deepl](https://playentry.org/profile/64100ab2d4c5cc008aa08078?sort=created&term=all))|
   |DL Entry+|엔트리이야기에서 작품 미리보는 프로그램|[WebStore](https://chrome.google.com/webstore/detail/clomedjbkfiamlkclldedlojhoalkifo)|0.7|[디엘](https://playentry.org/profile/5bb5fae2d856ffb51993a39c?sort=created&term=all)|
   |dutmoticon|다양한 이모티콘 사용해주게 만드는 프로그램|[Web](https://dutmoticon.tica.fun/install)|3.1.1|[tica](https://playentry.org/profile/60bc5559659bf40bd15d022c/project?sort=created&term=all)|
